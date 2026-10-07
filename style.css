@@ -1,0 +1,24 @@
+p{
+    color:rgba(0, 0, 0, 0.84) (0, 0, 255, 0.936);
+}
+h1{color:rgb(13, 74, 228)
+}
+h2{
+    background-color:rgb(210, 213, 223);  
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    margin: 5px;
+}
+img{
+    border-radius: 50%;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-image: url('./image/profile.jpeg.jpeg');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 5%;
+}
